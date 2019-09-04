@@ -27,10 +27,6 @@
 
     <repositories>
         <repository>
-            <id>sonatype-snapshots</id>
-            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
-        </repository>
-        <repository>
             <id>oss.jfrog.org</id>
             <name>Repository from Bintray</name>
             <url>http://dl.bintray.com/ethereum/maven</url>
@@ -40,6 +36,10 @@
             <id>oss.jfrog.org2</id>
             <name>Repository from Bintray</name>
             <url>http://oss.jfrog.org/oss-snapshot-local</url>
+        </repository>
+        <repository>
+            <id>bintray-eth-propeller</id>
+            <url>https://dl.bintray.com/cubefriendly/maven/</url>
         </repository>
     </repositories>
 
