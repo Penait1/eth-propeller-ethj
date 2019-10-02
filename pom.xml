@@ -27,8 +27,8 @@
 
     <repositories>
         <repository>
-            <id>sonatype-snapshots</id>
-            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
         </repository>
         <repository>
             <id>oss.jfrog.org</id>
@@ -57,9 +57,9 @@
         </dependency>
 
         <dependency>
-            <groupId>org.adridadou</groupId>
+            <groupId>com.github.Penait1</groupId>
             <artifactId>eth-propeller-core</artifactId>
-            <version>0.51</version>
+            <version>feature~access-timestamp-SNAPSHOT</version>
         </dependency>
 
         <dependency>
