@@ -59,7 +59,7 @@
         <dependency>
             <groupId>com.github.Penait1</groupId>
             <artifactId>eth-propeller-core</artifactId>
-            <version>b3400ab03c7a14aeeb413e6e56c88ad1233d6ec4</version>
+            <version>16f7600bd17b39cca701498576003aa115415ad2</version>
         </dependency>
 
         <dependency>
